@@ -1,0 +1,27 @@
+{
+  "name": "semana11",
+  "version": "1.0.0",
+  "description": "Implantação de um sistema de login com nodejs e mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandro-tecnico/semana11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leandro-tecnico/semana11/issues"
+  },
+  "homepage": "https://github.com/leandro-tecnico/semana11#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.14.2"
+  }
+}
